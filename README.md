@@ -17,13 +17,6 @@ I'm a developer with a keen interest in web and mobile development. Based in Dep
 - [MyPersonalWeb](https://github.com/Symqin/MyPersonalWeb) - Personal website project | Stars: 0 | Language: HTML | Issues: 0 
 - [LibraryManagement-Java-Project](https://github.com/Symqin/LibraryManagement-Java-Project) - Java based library management system | Stars: 0 | Language: Java | Issues: 0
 
-## GitHub Stats
-
-🌟 **Public Repositories**: 8  
-👥 **Followers**: 2  
-👤 **Following**: 6  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Symqin&show_icons=true&theme=radical)
-
 ## Recent Activity
 
 - Created [Symqin](https://github.com/Symqin/Symqin) repository.  
@@ -37,3 +30,11 @@ I'm a developer with a keen interest in web and mobile development. Based in Dep
 <a href="https://www.linkedin.com/in/syahril-mutaqin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syahril-mutaqin/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/symqin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/symqin_" height="30" width="40" /></a>
 </p>
+
+## GitHub Stats
+
+🌟 **Public Repositories**: 8  
+👥 **Followers**: 2  
+👤 **Following**: 6  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Symqin&show_icons=true&theme=radical)
+
