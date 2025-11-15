@@ -34,6 +34,6 @@ I'm a developer with a keen interest in web and mobile development. Based in Dep
 
 ## Connect with Me
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syahril-mutaqin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syahril-mutaqin/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/symqin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/symqin_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syahril-mutaqin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syahril-mutaqin/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/symqin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/symqin_" height="30" width="40" /></a>
 </p>
