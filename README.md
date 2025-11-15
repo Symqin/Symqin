@@ -25,16 +25,16 @@ I'm a developer with a keen interest in web and mobile development. Based in Dep
 - Pushed changes to [Growly](https://github.com/Symqin/Growly).  
 - Updated [Growly](https://github.com/Symqin/Growly) with new features.
 
-## Connect with Me
-
-<a href="https://www.linkedin.com/in/syahril-mutaqin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syahril-mutaqin/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/symqin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/symqin_" height="30" width="40" /></a>
-</p>
-
 ## GitHub Stats
 
 🌟 **Public Repositories**: 8  
 👥 **Followers**: 2  
 👤 **Following**: 6  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Symqin&show_icons=true&theme=radical)
 
+## Connect with Me
+
+<a href="https://www.linkedin.com/in/syahril-mutaqin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syahril-mutaqin/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/symqin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/symqin_" height="30" width="40" /></a>
+</p>
