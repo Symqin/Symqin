@@ -29,7 +29,7 @@ I'm a developer with a keen interest in web and mobile development. Based in Dep
 
 🌟 **Public Repositories**: 8  
 👥 **Followers**: 2  
-👤 **Following**: 6  
+👤 **Following**: 9
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Symqin&show_icons=true&theme=radical)
 
