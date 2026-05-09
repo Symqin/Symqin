@@ -33,9 +33,6 @@
   <a href="https://www.instagram.com/syahril.mutaqin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="mtaq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
 </div>
 
 ###
@@ -102,14 +99,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/symqin/symqin/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/symqin/symqin/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/symqin/symqin/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=symqin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -120,5 +109,9 @@
   <img src="https://raw.githubusercontent.com/symqin/symqin/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/symqin/symqin/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/symqin/symqin/snake-output/snake.svg" alt="Snake animation" />
 
 ###
